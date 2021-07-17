@@ -1,0 +1,15 @@
+{
+  "jupyter-config-data": {
+    "appName": "jlit",
+    "appUrl": "./retro",
+    "appVersion": "0.0.a0",
+    "settingsOverrides": {
+      "@jupyterlab/docmanager-extension:plugin": {
+        "nameFileOnSave": false
+      },
+      "@jupyterlab/apputils-extension:themes": {
+        "theme": "JupyterLab Dark"
+      }
+    }
+  }
+}

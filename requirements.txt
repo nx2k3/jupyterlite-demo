@@ -1,0 +1,3 @@
+jupyterlab-theme-hale
+jupyterlite==0.1.0a5
+jupyterlab-drawio
