@@ -13,26 +13,9 @@
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
-        "load": "static/remoteEntry.9c506278e545a18a8cc2.js",
-        "mimeExtension": "./mimeExtension",
-        "name": "@jupyterlab/fasta-extension",
-        "style": "./style"
-      },
-      {
-        "load": "static/remoteEntry.a6d92e11d5e8c375cfe6.js",
-        "mimeExtension": "./mimeExtension",
-        "name": "@jupyterlab/geojson-extension",
-        "style": "./style"
-      },
-      {
         "extension": "./extension",
         "load": "static/remoteEntry.89879fac6ceba3caa16b.js",
         "name": "@telamonian/theme-darcula"
-      },
-      {
-        "extension": "./extension",
-        "load": "static/remoteEntry.145e469029155b53b350.js",
-        "name": "@timkpaine/jupyterlab_miami_nights"
       },
       {
         "extension": "./extension",
@@ -54,12 +37,6 @@
         "load": "static/remoteEntry.8f896d6ad92823566c46.js",
         "name": "jupyterlab-drawio",
         "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "load": "static/remoteEntry.7b0dfd91a418a1e7eb37.js",
-        "mimeExtension": "./mimeExtension",
-        "name": "jupyterlab-plotly"
       },
       {
         "extension": "./extension",
