@@ -1,0 +1,8 @@
+{
+    "@jupyterlab/docmanager-extension:plugin": {
+        "nameFileOnSave": false
+    },
+    "@jupyterlab/apputils-extension:themes": {
+        "theme": "JupyterLab Dark"
+    }
+}
