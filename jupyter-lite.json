@@ -1,8 +1,8 @@
 {
   "jupyter-config-data": {
-    "appName": "jlit",
-    "appUrl": "./retro",
-    "appVersion": "0.0.a0",
+    "appName": "JupyterLite",
+    "appUrl": "./lab",
+    "appVersion": "0.1.0-alpha.6",
     "baseUrl": "./",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
@@ -22,14 +22,6 @@
     "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
     "fullStaticUrl": "./lab/build",
     "mathjaxConfig": "TeX-AMS_CHTML-full,Safe",
-    "settingsOverrides": {
-      "@jupyterlab/apputils-extension:themes": {
-        "theme": "JupyterLab Dark"
-      },
-      "@jupyterlab/docmanager-extension:plugin": {
-        "nameFileOnSave": false
-      }
-    },
     "settingsUrl": "./lab/build/schemas",
     "themesUrl": "./lab/build/themes"
   },
