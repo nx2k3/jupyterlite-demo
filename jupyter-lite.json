@@ -1,0 +1,11 @@
+{
+  "jupyter-config-data": {
+    "appUrl": "./retro",
+    "collaborative": true,
+    "settingsOverrides": {
+      "@jupyterlab/docmanager-extension:plugin": {
+        "nameFileOnSave": false
+      }
+    }
+  }
+}
